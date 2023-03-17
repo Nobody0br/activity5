@@ -1,0 +1,7 @@
+Server: nginx
+Date: Fri, 17 Mar 2023 02:39:45 GMT
+Content-Type: application/json
+Connection: close
+Access-Control-Allow-Credentials: true
+
+{"user_info":{"username":"3nqwaTY3uv1VnYfx","password":"gyw5nROJHTEYpFtT","message":"Welcome SEVEN","auth":1,"status":"Active","exp_date":"1685160399","is_trial":"0","active_cons":"1","created_at":"0","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"massud.homelinux.com","port":"80","https_port":"25463","server_protocol":"http","rtmp_port":"25462","timezone":"America\/Fortaleza","timestamp_now":1679020785,"time_now":"2023-03-16 23:39:45"}}
